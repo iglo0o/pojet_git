@@ -1,4 +1,4 @@
-# pojet_git
+# projet_git
 premier utilisation de gitlub
 ## Je fais du Git
 - list 1
